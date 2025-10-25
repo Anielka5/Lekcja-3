@@ -5,6 +5,13 @@ body{
 p{
     font-size: 20px;
     color:rgba(23, 107, 179, 0.897);
+    padding: 10px 300px 30px 5px;
+}
+img{
+    float: right;
+    resize: both;
+    top: 0px
+
 }
 h1{
     color:rgba(88, 66, 209, 0.897);
@@ -15,4 +22,5 @@ h2{
 ul{
     color:rgb(59, 59, 221);
     background-color: rgb(187, 215, 228); 
+    margin: 1em;
 }

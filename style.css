@@ -7,10 +7,10 @@ p{
     color:rgba(23, 107, 179, 0.897);
     padding: 10px 300px 30px 5px;
 }
-img{
+#phone{
     float: right;
-    resize: both;
-    top: 0px
+    height: 300px;
+    position: absolute;
 
 }
 h1{

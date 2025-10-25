@@ -1,16 +1,19 @@
 body{
     background-color: rgba(107, 163, 211, 0.323);
-
+    margin: 1cm
 }
 p{
     font-size: 20px;
     color:rgba(23, 107, 179, 0.897);
-    padding: 10px 300px 30px 5px;
+    position: relative;
+    z-index: 1;
+    margin: 10px 16em 10px 1em;
 }
 #phone{
-    float: right;
     height: 300px;
     position: absolute;
+    right: 1cm;
+    top: 50px;
 
 }
 h1{
@@ -22,5 +25,5 @@ h2{
 ul{
     color:rgb(59, 59, 221);
     background-color: rgb(187, 215, 228); 
-    margin: 1em;
+    margin-right: 36em;
 }

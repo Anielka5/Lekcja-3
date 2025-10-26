@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../pyton pro lekcje/Python Pro zadania/Python Pro zadania copy/Modul 1/Lekcja 3"
+		},
+		{
+			"path": "../../../pyton pro lekcje/Python Pro zadania/Python Pro zadania copy/Modul 1/Lekcja 4"
+		},
+		{
+			"path": "../Lekcja 1"
+		},
+		{
+			"path": "../Lekcja 2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lekcja 2 Hw"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lekcja 3"
+	}
+}
